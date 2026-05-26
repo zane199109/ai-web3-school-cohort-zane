@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI×Web3 Prompt Router</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main class="shell">
+    <section class="hero">
+      <p class="tag">AI × Web3 School Demo</p>
+      <h1>Prompt Router 概念学习助手</h1>
+      <p>用户只需输入简单问题，系统自动选择提示词模板，调用 Hermes 模型接口生成更适合初学者的解释，并推荐相关概念继续学习。</p>
+    </section>
+    <section class="panel">
+      <label for="q">输入你的问题</label>
+      <div class="row">
+        <input id="q" value="Agent 是什么意思？" />
+        <button id="ask">开始学习</button>
+      </div>
+      <div class="chips">
+        <button data-q="Agent 是什么意思？">Agent</button>
+        <button data-q="Smart Account 和普通钱包有什么区别？">Smart Account vs 钱包</button>
+        <button data-q="Tool Use 是怎么实现的？">Tool Use 原理</button>
+        <button data-q="AI×Web3 应该怎么入门？">学习路径</button>
+      </div>
+    </section>
+    <section id="route" class="panel muted">等待问题输入。</section>
+    <section id="answer" class="panel answer">AI 回答会显示在这里。</section>
+    <section id="related" class="panel muted">相关概念会显示在这里。</section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>
