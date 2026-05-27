@@ -25,33 +25,35 @@
 
 - **关注原因**：课程核心赞助方，聚焦大模型、AI Agent、AI编程等核心技术，高度贴合课程AI工具应用方向。
 - **观察方向**：GLM模型与Agent能力迭代、模型API与工具调用功能更新、AI技术在开发场景的落地案例。
-#### 5. DeepFunding｜X handle：@DeepFunding
-
-- **关注原因**：深耕AI治理、公共物品资助领域，聚焦去中心化协作价值落地，契合AI×Web3融合核心趋势。
-- **观察方向**：去中心化协作资助机制、链上声誉与影响力评估体系、AI+去中心化治理的产品化落地机会。
-#### 6. OpenAI｜X handle：@OpenAI
+#### 5. OpenAI｜X handle：@OpenAI
 
 - **关注原因**：全球AI行业基础设施标杆账号，同步前沿模型迭代与Agent生态核心动态。
 - **观察方向**：大模型能力与API迭代更新、Agent工具调用与多模态技术进展、前沿AI功能对开发者工作流的优化价值。
+
 ### C. Web3 / Ethereum
 
-#### 7. Vitalik Buterin｜X handle：@VitalikButerin
+#### 6. Vitalik Buterin｜X handle：@VitalikButerin
 
 - **关注原因**：以太坊创始人，输出行业顶层设计思想与长期发展路线，是理解Web3底层逻辑的核心信息源。
 - **观察方向**：以太坊底层技术迭代与设计取舍、AI×Web3在隐私/治理/公共物品的融合机会、底层基础设施对上层应用的约束与赋能。
-#### 8. Austin Griffith｜X handle：@austingriffith
+#### 7. Austin Griffith｜X handle：@austingriffith
 
 - **关注原因**：以太坊开发者生态核心人物，深耕开发者成长体系与生态共建赛道。
 - **观察方向**：以太坊Builder成长体系、生态Grant扶持政策、新手从入门到实战的成长路径、教学内容与项目落地的结合方式。
-#### 9. LI.FI｜X handle：@lifiprotocol
+#### 8. LI.FI｜X handle：@lifiprotocol
 
 - **关注原因**：主流跨链路由基础设施项目，聚焦跨链自动执行，与AI Agent链上执行场景高度契合。
 - **观察方向**：AI Agent跨链自动执行方案、意图交易基础设施落地进展、跨链路由效率、成本与安全的平衡策略。
-#### 10. Web3Privacy / W3PN｜X handle：@web3privacy
+#### 9. Web3Privacy / W3PN｜X handle：@web3privacy
 
 - **关注原因**：聚焦Web3隐私与用户主权核心赛道，适配AI Agent隐私安全刚需，是行业长期发展重点。
 - **观察方向**：去中心化抗监控应用设计、AI Agent权限最小化落地策略、隐私技术在Web3产品中的实用化方案。
 ### D. AI × Web3
+
+#### 10. DeepFunding｜X handle：@DeepFunding
+
+- **关注原因**：深耕AI治理、公共物品资助领域，聚焦去中心化协作价值落地，契合AI×Web3融合核心趋势。
+- **观察方向**：去中心化协作资助机制、链上声誉与影响力评估体系、AI+去中心化治理的产品化落地机会。
 
 #### 11. LXDAO｜X handle：@LXDAO_Official
 
