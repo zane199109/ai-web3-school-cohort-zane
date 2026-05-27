@@ -12,6 +12,12 @@
 - 整理对 Handbook 的反馈（`handbook-feedback/`）
 - 提交课程作业（`submissions/`）
 
+## 🏆 Week 1 Proof-of-Work Pack
+
+[➡️ 查看 Week 1 学习成果汇总](submissions/week1-proof-of-work-pack.md)
+
+包含：AI/Web3 概念卡片 × 20、Learning Agent 工作流配置、Prompt Router Demo、ERC-8004/8183 协议分析、Sepolia 测试网交易 + 合约部署验证、AI×Web3 链上支付工作流流程图，以及 2 条问题与人工修正记录。
+
 ## 🔗 重要链接
 
 | 资源 | 链接 |
