@@ -22,8 +22,6 @@
 | 9 | Agent Wallet 权限策略设计（三层分层额度+Guard） | ✅ | [提交文档](week2-Permission-Strategy-for-Agent-Initiated-On-Chain-Actions.md) |
 | 10 | AEP 威胁模型与安全边界设计 | ✅ | [提交文档](week2-Agent-Workflow-Threat-Model-and-Confirmation-Strategy.md) |
 | 11 | Governance 治理流程草图 | ✅ | [提交文档](week2-Governance-and-Coordination-Workflow-Sketch.md) |
-| 12 | AEP 验证计划 | ⏳ 已出计划书，尚未执行 | 见本文第五章第5节 |
-| 13 | AEP 全链路实现（EIP-712 + 事件监听 + 规则引擎 + 罚没） | ⏳ Week 3 Day1-2 执行 | 已有独立仓库：[AEP-Hackathon](https://github.com/zane199109/AEP-Hackathon) |
 
 ---
 
